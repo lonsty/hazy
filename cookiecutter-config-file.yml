@@ -1,0 +1,10 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "hazy"
+  project_description: "View hazy pictures in the terminal"
+  organization: "lonsty"
+  license: "MIT"
+  version: "0.1.0"
+  github_name: "lonsty"
+  email: "lonsty@sina.com"
